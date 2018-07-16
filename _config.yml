@@ -17,7 +17,7 @@ title                    : "SciChain"
 title_separator          : "--"
 name                     : &name "SciChain" # &name is a YAML anchor which can be *referenced later
 description              : &description "SciChain portal"
-url                      : https://scichain.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://scichain.org # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
 repository               : "scichain/scichain.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
