@@ -44,8 +44,8 @@ Our development **Roadmap** includes:
 
 * Q2 2018
   - Integrating basic smart contract operations with scichain.org website
-  - Improving hability endorsement calculations in smart contract
-  - Integrating SmartRules smart contract with Dynamic Invoke, to allow remote/personalized judgements
+  - Improving ability endorsement calculations in smart contract
+  - Integrating SmartRules smart contract with Dynamic Invoke, to allow remote/personalized judgments
 * Q3 2018
   - Integrating cryptographic end-to-end compilations in website
   - Integrating advanced smart contract operations with scichain.org website
@@ -56,13 +56,13 @@ More information for the many other operations available can be found in **SciCh
 
 We are proudly MIT licensed and expect collaborations, ideas or donations to keep the project going :)
 
-`AdfJSyxgpTZTGSWCnApWPA49hQG7ANVdht`
+Rewards/donation can be given to: `AdfJSyxgpTZTGSWCnApWPA49hQG7ANVdht`
 
 
 ## Our Team
 Our team includes researches from Brazil and all around the world.
 
-**Creating.City members:**
+**Developers and colaborators:**
 
 {% include feature_row %}
 
