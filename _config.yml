@@ -16,11 +16,11 @@ locale                   : "en-US"
 title                    : "SciChain"
 title_separator          : "--"
 name                     : &name "SciChain" # &name is a YAML anchor which can be *referenced later
-description              : &description "SciChain portal"
+description              : &description "SciChain: Science on the Blockchain"
 url                      : https://scichain.org # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
 repository               : "scichain/scichain.github.io"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : /assets/images/favicon-310.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:

@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "SciChain.org: Science on the Blockchain"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+excerpt: "SciChain.org - Science on the Blockchain."
 toc: true
 
 feature_row:
