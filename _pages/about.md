@@ -8,16 +8,17 @@ feature_row:
   - image_path: /assets/images/foto-vitor.jpeg
     alt: "Vitor Nazário Coelho"
     excerpt: 'Vitor Nazário Coelho<br />[<i class="fab fa-github"></i> @vncoelho](https://github.com/vncoelho){: .btn .btn--primary} [<i class="fab fa-twitter"></i>](https://twitter.com/vncoelho){: .btn .btn--twitter} [<i class="fab fa-facebook"></i>](https://www.facebook.com/vitor.nazario.coelho){: .btn .btn--facebook}'
-  - image_path: /assets/images/foto-fabio.jpeg
-    alt: "Fábio Cardoso"
-    excerpt: 'Fábio Cardoso<br />[<i class="fab fa-github"></i>@FabioRick](https://github.com/FabioRick){: .btn .btn--primary} [<i class="fab fa-twitter"></i>](https://twitter.com/vncoelho){: .btn .btn--twitter} [<i class="fab fa-facebook"></i>](https://www.facebook.com/vitor.nazario.coelho){: .btn .btn--facebook}'
   - image_path: /assets/images/foto-igor.jpeg
     alt: "Igor Machado Coelho"
     excerpt: 'Igor Machado Coelho<br />[<i class="fab fa-github"></i> @igormcoelho](https://github.com/igormcoelho){: .btn .btn--primary} [<i class="fab fa-twitter"></i>](https://twitter.com/vncoelho){: .btn .btn--twitter} [<i class="fab fa-facebook"></i>](https://www.facebook.com/vitor.nazario.coelho){: .btn .btn--facebook}'
-feature_row2:
   - image_path: /assets/images/foto-bruno.jpeg
     alt: "Bruno Nazário Coelho"
-    excerpt: 'Bruno Nazário Coelho<br />[<i class="fab fa-github"></i>@bruno.nazario](https://github.com/brunonaz){: .btn .btn--primary} [<i class="fab fa-twitter"></i>](https://twitter.com/vncoelho){: .btn .btn--twitter} [<i class="fab fa-facebook"></i>](https://www.facebook.com/vitor.nazario.coelho){: .btn .btn--facebook}'
+    excerpt: 'Bruno Nazário Coelho<br />[<i class="fab fa-github"></i>@bruno.nazario](https://github.com/brunonaz){: .btn .btn--primary} [<i class="fab fa-twitter"></i>](https://twitter.com/vncoelho){: .btn .btn--twitter} [<i class="fab fa-facebook"></i>](https://www.facebook.com/vitor.nazario.coelho){: .btn .btn--facebook}'    
+feature_row2:
+  - image_path: /assets/images/foto-fabio.jpeg
+    alt: "Fábio Cardoso"
+    excerpt: 'Fábio Cardoso<br />[<i class="fab fa-github"></i>@FabioRick](https://github.com/FabioRick){: .btn .btn--primary} [<i class="fab fa-twitter"></i>](https://twitter.com/vncoelho){: .btn .btn--twitter} [<i class="fab fa-facebook"></i>](https://www.facebook.com/vitor.nazario.coelho){: .btn .btn--facebook}'
+
 ---
 
 ## Motivation
@@ -60,10 +61,15 @@ Rewards/donation can be given to: `AdfJSyxgpTZTGSWCnApWPA49hQG7ANVdht`
 
 
 ## Our Team
-Our team includes researches from Brazil and all around the world.
 
-**Developers and colaborators:**
+**Founders:**
+
+The initiative started around 2016, from a family of researchers, the Coelho's.
 
 {% include feature_row %}
+
+**Collaborators and developers:**
+
+Our team includes researches from Brazil and all around the world.
 
 {% include feature_row id="feature_row2" %}
