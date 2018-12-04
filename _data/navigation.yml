@@ -29,14 +29,14 @@ docs:
 
 # main links
 main:
-  - title: "How to use"
-    url: /docs/new-journal/
   - title: "About"
     url: /
+  - title: "How to use"
+    url: /docs/new-journal/
   - title: "News"
     url: /year-archive/
-  - title: "Sitemap"
-    url: /sitemap/
+  - title: "Our team"
+    url: /team/
 
 # sidebar navigation list sample
 sidebar-sample:

@@ -3,22 +3,6 @@ permalink: /
 title: "SciChain.org: Science on the Blockchain"
 excerpt: "SciChain.org - Science on the Blockchain."
 toc: true
-
-feature_row:
-  - image_path: /assets/images/foto-vitor.jpeg
-    alt: "Vitor Nazário Coelho"
-    excerpt: 'Vitor Nazário Coelho<br />[<i class="fab fa-github"></i> @vncoelho](https://github.com/vncoelho){: .btn .btn--primary} [<i class="fab fa-twitter"></i>](https://twitter.com/vncoelho){: .btn .btn--twitter} [<i class="fab fa-facebook"></i>](https://www.facebook.com/vitor.nazario.coelho){: .btn .btn--facebook}'
-  - image_path: /assets/images/foto-igor.jpeg
-    alt: "Igor Machado Coelho"
-    excerpt: 'Igor Machado Coelho<br />[<i class="fab fa-github"></i> @igormcoelho](https://github.com/igormcoelho){: .btn .btn--primary} [<i class="fab fa-twitter"></i>](https://twitter.com/vncoelho){: .btn .btn--twitter} [<i class="fab fa-facebook"></i>](https://www.facebook.com/vitor.nazario.coelho){: .btn .btn--facebook}'
-  - image_path: /assets/images/foto-bruno.jpeg
-    alt: "Bruno Nazário Coelho"
-    excerpt: 'Bruno Nazário Coelho<br />[<i class="fab fa-github"></i>@bruno.nazario](https://github.com/brunonaz){: .btn .btn--primary} [<i class="fab fa-twitter"></i>](https://twitter.com/vncoelho){: .btn .btn--twitter} [<i class="fab fa-facebook"></i>](https://www.facebook.com/vitor.nazario.coelho){: .btn .btn--facebook}'    
-feature_row2:
-  - image_path: /assets/images/foto-fabio.jpeg
-    alt: "Fábio Cardoso"
-    excerpt: 'Fábio Cardoso<br />[<i class="fab fa-github"></i>@FabioRick](https://github.com/FabioRick){: .btn .btn--primary} [<i class="fab fa-twitter"></i>](https://twitter.com/vncoelho){: .btn .btn--twitter} [<i class="fab fa-facebook"></i>](https://www.facebook.com/vitor.nazario.coelho){: .btn .btn--facebook}'
-
 ---
 
 ## Motivation
@@ -51,6 +35,24 @@ Our development **Roadmap** includes:
   - Integrating cryptographic end-to-end compilations in website
   - Integrating advanced smart contract operations with scichain.org website
 
+## Supporters
+
+<p align="left">
+    <img
+      src="/assets/images/coz-dark-blue.jpg"
+      width="125px;" >
+      <a href="https://cityofzion.io">City of Zion</a>, throughout the <a href="/dapps/dapps-2/">2nd dapp competition</a>
+</p>
+
+<p align="left">
+    <img
+      src="/assets/images/butterfly-05-final.png"
+      width="125px;" >
+      <a href="http://neoresearch.io/">NeoResearch</a>, by providing support for us to develop our <a href="https://github.com/SciChain/scichain/tree/master/SciChain">dapp</a>
+
+</p>
+
+
 ## Getting more information
 
 More information for the many other operations available can be found in **SciChain** documentation at [GitHub](https://github.com/igormcoelho/scichain).
@@ -58,18 +60,3 @@ More information for the many other operations available can be found in **SciCh
 We are proudly MIT licensed and expect collaborations, ideas or donations to keep the project going :)
 
 Rewards/donation can be given to: `AdfJSyxgpTZTGSWCnApWPA49hQG7ANVdht`
-
-
-## Our Team
-
-**Founders:**
-
-The initiative started around 2016, from a family of researchers, the Coelho's.
-
-{% include feature_row %}
-
-**Collaborators and developers:**
-
-Our team includes researches from Brazil and all around the world.
-
-{% include feature_row id="feature_row2" %}
