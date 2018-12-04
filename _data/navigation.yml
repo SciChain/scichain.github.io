@@ -35,6 +35,8 @@ main:
     url: /docs/new-journal/
   - title: "News"
     url: /year-archive/
+  - title: "White paper"
+    url: https://github.com/SciChain/scichain/blob/master/docs/scichain.pdf
   - title: "Our team"
     url: /team/
 

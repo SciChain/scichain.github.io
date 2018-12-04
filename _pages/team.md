@@ -2,7 +2,8 @@
 permalink: /team/
 title: "SciChain team"
 excerpt: "SciChain.org - Science on the Blockchain."
-toc: true
+classes: wide
+
 
 feature_row:
   - image_path: /assets/images/foto-vitor.jpeg
