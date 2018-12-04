@@ -3,6 +3,7 @@ permalink: /
 title: "SciChain.org: Science on the Blockchain"
 excerpt: "SciChain.org - Science on the Blockchain."
 toc: true
+classes: wide
 ---
 
 ## Motivation
