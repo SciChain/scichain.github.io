@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "SciChain.org: Science on the Blockchain"
-excerpt: "SciChain.org - Science on the Blockchain."
+title: "SciChain: Science on the Blockchain"
+excerpt: "SciChain - Science on the Blockchain."
 toc: true
 classes: wide
 ---
@@ -24,30 +24,29 @@ One the many flaws in scientific studies is also related to low reproducibility 
 
 ## Future works and Roadmap
 
-There are many future works for **SciChain**, and we will continue to develop them, as the idea emerged in casual talks in early February 2017. We believe this project can be the start of a revolution in the way we do science, and perhaps this can bring birth to many other similar projects that will fulfill the purpose of bringing a more transparent science.
+There are many future works for **SciChain**, and we will continue to develop them, as the idea emerged in casual talks in early February 2017.
+We believe this project can be the start of a revolution in the way we do science, and perhaps this can bring birth to many other similar projects that will fulfill the purpose of bringing a more transparent science.
 
 Our development **Roadmap** includes:
 
-* Q2 2018
   - Integrating basic smart contract operations with scichain.org website
   - Improving ability endorsement calculations in smart contract
   - Integrating SmartRules smart contract with Dynamic Invoke, to allow remote/personalized judgments
-* Q3 2018
   - Integrating cryptographic end-to-end compilations in website
-  - Integrating advanced smart contract operations with scichain.org website
+  - Developing zero-knowledge proofs for private interaction with SciChain smart contract
 
 ## Supporters
 
 <p align="left">
     <img
-      src="/assets/images/coz-dark-blue.jpg"
+      src="http://res.cloudinary.com/vidsy/image/upload/v1503160820/CoZ_Icon_DARKBLUE_200x178px_oq0gxm.png"
       width="125px;" >
       <a href="https://cityofzion.io">City of Zion</a>, throughout the <a href="/dapps/dapps-2/">2nd dapp competition</a>
 </p>
 
 <p align="left">
     <img
-      src="/assets/images/butterfly-05-final.png"
+      src="/assets/images/logo_neoresearch.png"
       width="125px;" >
       <a href="http://neoresearch.io/">NeoResearch</a>, by providing support for us to develop our <a href="https://github.com/SciChain/scichain/tree/master/SciChain">dapp</a>
 
