@@ -4,8 +4,6 @@ title: "SciChain team"
 excerpt: "SciChain.org - Science on the Blockchain."
 classes: wide
 
-
-feature_row:
 team_row_vitor:
   - image_path: /assets/images/foto-vitor.jpeg
     alt: "Vitor Nazário Coelho"
@@ -58,6 +56,18 @@ team_row_fabio:
     <b>Curriculum:</b> <a href="http://lattes.cnpq.br/8649025399388231">http://lattes.cnpq.br/8649025399388231</a><br />
     <a href="https://github.com/FabioRick"><i class="fab fa-github" style="font-size: 1.5em;"></i></a>
     '
+team_row_thays:
+  - image_path: /assets/images/foto-thays.jpeg
+    alt: "Ms. Thays Aparecida de Oliveira"
+    excerpt: '<b>Thays Aparecida de Oliveira</b><br />
+    Master in Business<br />
+    <b>Interests:</b> Science on the context of Smart and Digital Cities<br />
+    <b>Curriculum:</b> <a href="http://lattes.cnpq.br/9575967948201550">http://lattes.cnpq.br/9575967948201550</a> <br />
+    <a href="https://scholar.google.es/citations?view_op=list_works&hl=en&user=vRQ2lA8AAAAJ"><i class="fas fa-chart-bar" style="font-size: 1.5em;"></i></a>
+    <a href="https://www.researchgate.net/profile/Thays_Oliveira3"><i class="fab fa-researchgate" style="font-size: 1.5em;"></i></a>
+
+    <br /><br />
+    My interests involves how citizens can now interact with modern science since population is now massively inserted in urban areas. '    
 ---
 
 ## Founders
@@ -75,4 +85,6 @@ The initiative started around 2017, from a family of researchers, the Coelho's.
 Scichain is open for a free knowledge exchange journey, in which
 everyone is invited to join the team and contribute with to the project by developing, writing, supporting or with ideas.
 
-{% include feature_row id="team_row_fabio" type="right" %}
+{% include feature_row id="team_row_fabio" type="left" %}
+
+{% include feature_row id="team_row_thays" type="right" %}

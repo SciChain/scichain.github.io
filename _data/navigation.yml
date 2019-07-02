@@ -29,8 +29,6 @@ docs:
 
 # main links
 main:
-  - title: "About"
-    url: /
   - title: "How to use"
     url: /docs/new-journal/
   - title: "News"
