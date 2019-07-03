@@ -14,7 +14,7 @@ Our team includes experienced researchers on Computer Science, Engineering and M
 
 Perhaps not so many people know that, for a scientific study to be properly "accepted" as "true", it is commonly required for it to pass the **peer-review system**, where unknown colleagues of the same field judge the article methodology, background and results. If it passes peer-review and is published in a qualified journal, the study is considered valid and is referenced in future studies. And the chain goes on...
 
-In order to achieve a truly transparent process in peer-review, we propose **SciChain**. As **SciChain** is build on top of **NEO Blockchain** (a blockchain can be seen as a public database where the defined rules are always respected), there will be no way of "cheating" in peer-review, for example, indicating known friends are reviewers, breaking the **double-blind** principle (what means that both and the author and reviewer must not know who is each other),
+In order to achieve a truly transparent process in peer-review, we propose **SciChain**. As **SciChain** is build on top of **NEO Blockchain** (a blockchain can be seen as a public database where the defined rules are always respected), there will be no way of "cheating" in peer-review, for example, indicating known friends as reviewers, breaking the **double-blind** principle (what means that both and the author and reviewer must not know who is each other),
 
 > and many other bad actions that hurt our precious Science :'(
 
@@ -27,13 +27,13 @@ One the many flaws in scientific studies is also related to low reproducibility 
 There are many future works for **SciChain**, and we will continue to develop them, as the idea emerged in casual talks in early February 2017.
 We believe this project can be the start of a revolution in the way we do science, and perhaps this can bring birth to many other similar projects that will fulfill the purpose of bringing a more transparent science.
 
-Our development **Roadmap** includes:
+#### Our development **Roadmap** includes:
 
-  - Integrating basic smart contract operations with scichain.org website
-  - Improving ability endorsement calculations in smart contract
-  - Integrating SmartRules smart contract with Dynamic Invoke, to allow remote/personalized judgments
+  - Integrating basic smart contract operations, browsers light wallets, with scichain.org website
+  - Improving endorsement calculations strategies of the smart contract
+  - Developing zero-knowledge proofs for private interaction with SciChain smart contract  
   - Integrating cryptographic end-to-end compilations in website
-  - Developing zero-knowledge proofs for private interaction with SciChain smart contract
+  - Integrating SmartRules smart contract with Dynamic Invoke, to allow remote/personalized judgments  
 
 ## Supporters
 
@@ -55,8 +55,8 @@ Our development **Roadmap** includes:
 
 ## Getting more information
 
-More information for the many other operations available can be found in **SciChain** documentation at [GitHub](https://github.com/igormcoelho/scichain).
+More information for the many other operations available can be found in **SciChain** documentation at [GitHub](https://github.com/SciChain/scichain) and for a brief guide check [How to Use](https://scichain.org/docs/new-journal/).
 
-We are proudly MIT licensed and expect collaborations, ideas or donations to keep the project going :)
+We are proudly MIT licensed and expect collaborations, join our [team](https://scichain.org/team/), ideas or donations to keep the project going :)
 
 Rewards/donation can be given to: `AdfJSyxgpTZTGSWCnApWPA49hQG7ANVdht`

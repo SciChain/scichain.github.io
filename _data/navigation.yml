@@ -31,12 +31,12 @@ docs:
 main:
   - title: "How to use"
     url: /docs/new-journal/
+  - title: "Our team"
+    url: /team/
   - title: "News"
     url: /year-archive/
   - title: "White paper"
     url: https://www.overleaf.com/read/qxmycfdrwyqj
-  - title: "Our team"
-    url: /team/
 
 # sidebar navigation list sample
 sidebar-sample:
