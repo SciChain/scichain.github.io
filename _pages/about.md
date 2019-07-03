@@ -22,12 +22,12 @@ One the many flaws in scientific studies is also related to low reproducibility 
 
 > We intend to remediate these problems by providing a free scientific pool of journals and reviewers directly in a blockchain.
 
-## Future works and Roadmap
+## Future works
 
 There are many future works for **SciChain**, and we will continue to develop them, as the idea emerged in casual talks in early February 2017.
 We believe this project can be the start of a revolution in the way we do science, and perhaps this can bring birth to many other similar projects that will fulfill the purpose of bringing a more transparent science.
 
-#### Our development **Roadmap** includes:
+### Roadmap
 
   - Integrating basic smart contract operations, browsers light wallets, with scichain.org website
   - Improving endorsement calculations strategies of the smart contract
