@@ -40,7 +40,7 @@ team_row_bruno:
     alt: "Prof. Dr. Bruno Nazário Coelho"
     excerpt: '<b>Prof. Dr. Bruno Nazário Coelho</b><br />
     PhD in Material Engineering<br />
-    <b>Interests:</b> Cross-chain applications for Robotics and IoT<br />
+    <b>Interests:</b> Science, Robotics, and Industry 4.0<br />
     <b>Curriculum:</b> <a href="http://lattes.cnpq.br/8649025399388231">http://lattes.cnpq.br/8649025399388231</a><br />
     <a href="https://www.researchgate.net/profile/Bruno_Coelho3"><i class="fab fa-researchgate" style="font-size: 1.5em;"></i></a>
 
