@@ -20,7 +20,7 @@ description              : &description "SciChain: Science on the Blockchain"
 url                      : https://scichain.org # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
 repository               : "scichain/scichain.github.io"
-teaser                   : /assets/images/favicon-310.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : /assets/images/scichain_legacy_logo.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
