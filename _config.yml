@@ -20,7 +20,7 @@ description              : &description "SciChain: Science on the Blockchain"
 url                      : https://scichain.org # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
 repository               : "scichain/scichain.github.io"
-teaser                   : /assets/images/scichain_legacy_logo.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : /assets/logo/scichain_legacy_logo.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -81,7 +81,7 @@ facebook:
   username               : &facebook ""
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/favicon.png" # Open Graph/Twitter default site image
+og_image                 : "/assets/images/scichain_legacy_logo.png" # Open Graph/Twitter default site image
 # For specifying social profiles, used in _includes/seo.html
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -102,8 +102,8 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "/assets/images/favicon-310.png"
-  bio              : "SciChain - Science on the Blockchain."
+  avatar           : "/assets/logo/scichain_legacy_logo.png"
+  bio              : "Science on the Blockchain, empowering scientific findings with a big step towards the future of knowledge sharing."
   location         : 
   email            :
   uri              : *url
